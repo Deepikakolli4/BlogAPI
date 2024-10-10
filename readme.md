@@ -1,8 +1,8 @@
-## Travel Blog
+##  Blog
 
 ## Overview
 
-The **Travel Blog** is a simple web-based application that allows users to create, edit, and delete blog posts about their travel experiences. With an intuitive interface, users can easily share their adventures.
+The **Blog** is a simple web-based application that allows users to create, edit, and delete blog posts about their experiences. With an intuitive interface, users can easily share their view.
 
 ## Features
 
@@ -12,7 +12,7 @@ Write and publish  stories using an easy-to-use form.
 
 ### Edit Existing Posts
 
-Update any of your previous posts to keep your travel stories fresh.
+Update any of your previous posts to keep your  stories fresh.
 
 ### Delete Posts
 
@@ -27,8 +27,6 @@ Display all blog posts in a clean and organized layout for easy navigation.
 ![Blog API](./assests/blog.png)
 
 ## Demo Video
-
-If you'd like to see how the Family Travel Tracker works in action, check out this demo:
 
 [![Demo](./assests/blogs.mp4)](./assests/blogs.mp4)
 
@@ -78,7 +76,7 @@ If you'd like to see how the Family Travel Tracker works in action, check out th
 
 ```bash
 
-git clone https://github.com/yourusername/travel-blog.git
+git clone https://github.com/yourusername/blog.git
 
 ```
 
@@ -86,7 +84,7 @@ git clone https://github.com/yourusername/travel-blog.git
 
 ```bash
 
-cd travel-blog
+cd blog
 
 ```
 
@@ -108,4 +106,4 @@ npm start
 
 5. Open your web browser and go to `http://localhost:3000` (or the appropriate port).
 
-Enjoy sharing your travel experiences with the **Blog**!
+Enjoy sharing your experiences with the **Blog**!
